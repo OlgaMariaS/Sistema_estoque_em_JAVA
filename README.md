@@ -14,5 +14,4 @@ Este projeto consiste na criação de um software de gerenciamento de estoque.
 - Banco de dados em MySQL ✅
 - Integração de todos os componentes ✅
 
-
-
+https://github.com/OlgaMariaS/Sistema_estoque_em_JAVA/assets/71673449/319bc431-7fd8-4de8-85f6-fdda0342bd3b
